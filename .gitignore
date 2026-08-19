@@ -1,4 +1,25 @@
 files/
 venv/
+.venv/
 __pycache__/
 *.py[cod]
+.DS_Store
+node_modules/
+dist/
+.env
+.coverage
+htmlcov/
+tmp/
+output/
+*.tsbuildinfo
+
+# Imagens e graficos gerados pelo treinamento/modelo de machine learning
+app/artifacts/**/*.png
+app/artifacts/**/*.jpg
+app/artifacts/**/*.jpeg
+app/artifacts/**/*.webp
+app/artifacts/**/*.svg
+app/artifacts/**/*.gif
+app/artifacts/**/*plot*
+app/artifacts/**/*grafico*
+app/artifacts/**/*matriz*

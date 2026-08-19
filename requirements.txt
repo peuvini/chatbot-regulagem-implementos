@@ -1,6 +1,11 @@
-spacy
-spacy-layout
 pandas
+numpy
+openpyxl
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg[binary]
+pydantic-settings
+python-multipart
 Unidecode
-PyMuPDF
-easyocr
+alembic
