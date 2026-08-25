@@ -1,0 +1,6 @@
+spacy
+spacy-layout
+pandas
+Unidecode
+PyMuPDF
+easyocr
